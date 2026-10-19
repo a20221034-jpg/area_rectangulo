@@ -11,6 +11,7 @@ public class Main {
         System.out.println("Rectángulo de base " + base + " y altura " + altura);
         System.out.println("Área: " + area);
         System.out.println("Perímetro: " + perimetro);
+        System.out.println("Este cambio lo hice para practicar commit y push.");
     }
 
     // Método que calcula el área
